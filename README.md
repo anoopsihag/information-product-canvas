@@ -2,8 +2,6 @@
 
 Gather Information Product requirements using the Information Product Canvas pattern template. Define business questions, outcomes, personas, delivery types, core business events, feature stories, will/wont's and vision for each Information Product.
 
-An [AgileDataGuides](https://agiledataguides.com/agiledata-templates/) Pattern Template app.
-
 ![Information Product Canvas](app/static/screenshot-2026-04-07.png)
 
 
@@ -28,7 +26,7 @@ The Information Product Canvas is a visual requirements tool for Information Pro
 
 ## Try It Online
 
-**[Launch the Live Demo](https://agiledataguides.github.io/information-product-canvas)** — no install required. The demo runs entirely in your browser. Your data is saved in localStorage and never leaves your device.
+**[Launch the Live Demo](https://anoopsihag.github.io/information-product-canvas)** — no install required. The demo runs entirely in your browser. Your data is saved in localStorage and never leaves your device.
 
 The demo includes the *SaaS Revenue Metrics* example canvas so you can explore the app straight away.
 
@@ -76,7 +74,7 @@ Export your canvas as JSON and use it with [Claude Code](https://claude.ai/claud
 
 **Local mode**: This app is designed to run locally on your own machine. Do not expose it to the internet or deploy it on a public server. The Save feature writes files directly to your filesystem. There is no user authentication, so anyone who can reach the server can read and overwrite your data.
 
-**Demo mode**: The [live demo](https://agiledataguides.github.io/information-product-canvas) is a static site with no server or backend. All data stays in your browser's localStorage and never leaves your device. There is nothing to attack — no API, no database, no file system access.
+**Demo mode**: The [live demo](https://anoopsihag.github.io/information-product-canvas) is a static site with no server or backend. All data stays in your browser's localStorage and never leaves your device. There is nothing to attack — no API, no database, no file system access.
 
 If you need to share your work, use the **Export** buttons to download files and share them manually.
 
